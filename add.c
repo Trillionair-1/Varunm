@@ -7,5 +7,6 @@ int main()
 	printf("sum",c);
 	c=a+b;
 	printf("results is:\n",c);
+	printf("Hello world");
 	return 0;
 }
